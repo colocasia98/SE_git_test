@@ -1,1 +1,1 @@
-print('This is for SE git task')
+print('This is for SE git task B')
